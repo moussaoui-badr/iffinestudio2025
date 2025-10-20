@@ -1,0 +1,79 @@
+.page-template-template-instagram .hello-bar,
+.page-template-template-instagram #menu-trigger,
+.page-template-template-instagram #project-trigger {
+  display: none; }
+.page-template-template-instagram #content-wrapper {
+  background-color: #FEF9F0;
+  display: block; }
+.page-template-template-instagram .header-inner__logo {
+  transform: none !important;
+}
+.page-template-template-instagram #outer-wrapper {
+  margin-bottom: 0 !important;
+}
+.page-template-template-instagram .site-footer {
+  display: none !important;
+}
+
+.insta {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 3.125rem 2.25rem 0; }
+  .insta h5 {
+    text-align: center;
+    margin-bottom: 1.875rem;
+    font-family: "Brown LL",sans-serif;
+    font-size: .8125rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1.38;
+    letter-spacing: .15em; }
+  .insta .button {
+    display: block;
+    margin-bottom: 0.9375rem; }
+  .insta__main h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem; }
+  .insta__main p {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto; }
+  .insta__main .insta__buttons {
+    margin-top: 2.8125rem; }
+  .insta__services {
+    margin-top: 4.0625rem;
+    text-align: center; }
+    .insta__services h3 {
+      font-size: 1.875rem;
+      line-height: 1.2667;
+      margin-bottom: 1.875rem; }
+  .insta__blog {
+    margin-top: 4.0625rem;
+    text-align: center; }
+    .insta__blog h3 {
+      margin-top: 1.5625rem;
+      margin-bottom: 1.875rem; }
+    .insta__blog__single {
+      margin-bottom: 3.125rem; }
+    .insta__blog .insta__thumb {
+      display: block; }
+      .insta__blog .insta__thumb > img {
+        display: block; }
+  .insta__back h5 {
+    margin: 0; }
+  .insta__back a {
+    display: block;
+    padding: 1.875rem 2.25rem;
+    text-transform: uppercase;
+    font-family: "Brown LL",sans-serif;
+    font-size: 0.8125rem;
+    line-height: 1.38;
+    letter-spacing: .15em;
+    color: #FEF9F0;
+    text-align: center;
+    background-color: #2D2926;
+    font-weight: 500; }
+    .insta__back a:hover {
+      text-decoration: none; }
+
+/*# sourceMappingURL=instagram.css.map */
